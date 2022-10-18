@@ -8,4 +8,4 @@
   <li> Python Essentials </li>
   <li> Linux - Beginners to Advance </li>
  </ul>
- <p style='text-center'> &copy 2020 wileyedge.com </p>
+ <p style='text-center'> &copy 2022 wileyedge.com </p>
